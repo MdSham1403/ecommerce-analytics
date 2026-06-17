@@ -44,15 +44,11 @@ venv.bak/
 # Data Science & Data Files (Crucial for Ecommerce Analytics)
 # ==========================================
 # Large data files that shouldn't be on GitHub
-*.csv
-*.xlsx
-*.xls
 *.json
 *.parquet
 *.pickle
 *.pkl
 *.sqlite
-*.db
 
 # If you have a specific data folder, ignore its contents but keep the folder (optional)
 # data/*
