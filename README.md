@@ -2,7 +2,7 @@
 
 A production-grade data analytics dashboard built with **Python, Pandas, Plotly, and Streamlit** — analysing 5,000 Indian e-commerce orders across 6 categories, 4 regions, and 20 cities (2022–2024).
 
-**🔗 Live Demo:** [Click to open dashboard](#) *(add your Streamlit Cloud URL here)*
+**🔗 Live Demo:** [Click to open dashboard](https://ecommerce-analytics-appv2.streamlit.app/)
 
 ---
 
